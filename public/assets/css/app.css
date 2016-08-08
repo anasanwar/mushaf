@@ -1,0 +1,267 @@
+@font-face {
+    font-family: "HelveticaNeue-reg";
+    font-weight: normal;
+	src: url('/assets/fonts/ar/HelveticaNeueW23-Reg.eot');
+	src: local('HelveticaNeueW23-Bd'),
+	     url('/assets/fonts/ar/HelveticaNeueW23-Reg.eot?#iefix') format('embedded-opentype'),
+	     url("/assets/fonts/ar/HelveticaNeueW23-Reg.woff") format("woff"), 
+	     url("/assets/fonts/ar/HelveticaNeueW23-Reg.ttf") format("truetype"), 
+	     url("/assets/fonts/ar/HelveticaNeueW23-Reg.svg#HelveticaNeueLTArabic55Roman") format("svg");
+}
+@font-face {
+    font-family: "QCF-BSML";
+    font-weight: normal;
+	src: url('/assets/fonts/quran/QCF-BSML.ttf');
+}
+body {
+	font-family: HelveticaNeue-reg;
+	background-color: #397A3A !important;
+	/*203329*/
+}
+#mushaf > .container > .row > .col-lg-6 > .right, #mushaf > .container > .row > .col-lg-6 > .left{
+	/*background-color: #F9FBEE;*/
+	background-image: url('/assets/img/npage.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 35px 0 35px 0;
+	height: 623px;
+
+}
+.right {
+	margin-right: 10px;
+}
+.left {
+	margin-left: 10px;
+}
+
+#mushaf .container span {
+	font-size: 22px;
+	line-height: 1.7;
+}
+.header {
+	height: 20px;
+	font-size: 20px;
+	font-family: QCF_BSML;
+	line-height: 1;
+}
+.footer {
+	font-size: 18px;
+}
+
+.next, .back {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	cursor:pointer;
+}
+.next {
+	background-image: url('/assets/img/wnext.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	top: 43%;
+	left: 10px;
+}
+
+.back {
+	color: white;
+	background-image: url('/assets/img/wback.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	right: 15px;
+	top: 43%;
+}
+
+.title {
+	background-image: url('/assets/img/title.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 325px;
+    height: 38px;
+    display: block;
+    right: 38px;
+    margin-right: 41px;
+    padding-right: 10px;
+    padding-top: 4px;
+    font-family: 'QCF_BSML';
+}
+.basmalah {
+	font-family: 'QCF_BSML';
+}
+.aya:hover {
+	background-color: rgba(57, 122, 58, 0.10);
+}
+
+#mushaf .selected {
+	background-color: rgba(57, 122, 58, 0.30);
+}
+
+/* Menue Button */
+#MenueButton {
+	width: 40px;
+	height: 40px;
+	color: white;
+	font-size:27px;
+	padding: 0px;
+	position: absolute;
+	right: 10px;
+
+}
+
+.menueStyle {
+	font-family: HelveticaNeue-reg;
+	height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #1A381B;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    color: white;
+}
+.menueStyle .row {
+	padding: 8px 35px 8px 35px;
+}
+
+.closebtn {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    font-size: 36px !important;
+    margin-right: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .menueStyle {padding-top: 15px;}
+  .menueStyle a {font-size: 18px;}
+}
+
+.menueStyle .input-group-btn span {
+	color: white;
+
+}
+/* Search Button */
+#SearchButton{
+	width: 40px;
+	height: 40px;
+	color: white;
+	padding: 0px;
+	font-size:22px;
+	cursor:pointer;
+	position: absolute;
+	right: 10px;
+	Top: 50px;
+}
+.searchResult ul
+{
+    list-style-type: none;
+    padding-right:0;
+}
+.popover-content {
+	font-family: HelveticaNeue-reg;
+}
+.searchResult li {
+	cursor:pointer;
+
+}
+.searchResult li:hover .ayaResult {
+	color: #F6CF25;
+
+}
+.searchResult ul li:after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 100%;
+    margin: 10px 2px;
+    background: #fff;
+}
+/* Listen Button */
+#ListenButton{
+	width: 40px;
+	height: 40px;
+	color: white;
+	padding: 0px;
+	font-size:22px;
+	cursor:pointer;
+	position: absolute;
+	right: 10px;
+	Top: 95px;
+}
+.loading {
+	z-index: 1;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	overflow-x: hidden;
+	top:0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background-color: #173017;
+	opacity: 0.8;
+	transition: 0.5s;
+}
+
+.loading img {
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
+
+
+/*/////////BUTTON///////////*/
+.btn-sample { 
+  color: #FFFFFF; 
+  background-color: #FFD700; 
+  border-color: #DAA520; 
+} 
+ 
+.btn-sample:hover, 
+.btn-sample:focus, 
+.btn-sample:active, 
+.btn-sample.active, 
+.open .dropdown-toggle.btn-sample { 
+  color: #FFFFFF; 
+  background-color: #DAA520; 
+  border-color: #DAA520; 
+} 
+ 
+.btn-sample:active, 
+.btn-sample.active, 
+.open .dropdown-toggle.btn-sample { 
+  background-image: none; 
+} 
+ 
+.btn-sample.disabled, 
+.btn-sample[disabled], 
+fieldset[disabled] .btn-sample, 
+.btn-sample.disabled:hover, 
+.btn-sample[disabled]:hover, 
+fieldset[disabled] .btn-sample:hover, 
+.btn-sample.disabled:focus, 
+.btn-sample[disabled]:focus, 
+fieldset[disabled] .btn-sample:focus, 
+.btn-sample.disabled:active, 
+.btn-sample[disabled]:active, 
+fieldset[disabled] .btn-sample:active, 
+.btn-sample.disabled.active, 
+.btn-sample[disabled].active, 
+fieldset[disabled] .btn-sample.active { 
+  background-color: #FFD700; 
+  border-color: #DAA520; 
+} 
+ 
+.btn-sample .badge { 
+  color: #FFD700; 
+  background-color: #FFFFFF; 
+}

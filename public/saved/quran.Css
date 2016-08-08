@@ -1,0 +1,3624 @@
+
+@font-face {
+                font-family: 'QCF_P001';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P001.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P002';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P002.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P003';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P003.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P004';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P004.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P005';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P005.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P006';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P006.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P007';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P007.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P008';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P008.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P009';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P009.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P010';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P010.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P011';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P011.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P012';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P012.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P013';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P013.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P014';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P014.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P015';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P015.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P016';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P016.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P017';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P017.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P018';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P018.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P019';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P019.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P020';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P020.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P021';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P021.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P022';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P022.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P023';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P023.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P024';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P024.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P025';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P025.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P026';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P026.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P027';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P027.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P028';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P028.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P029';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P029.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P030';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P030.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P031';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P031.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P032';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P032.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P033';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P033.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P034';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P034.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P035';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P035.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P036';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P036.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P037';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P037.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P038';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P038.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P039';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P039.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P040';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P040.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P041';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P041.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P042';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P042.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P043';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P043.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P044';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P044.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P045';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P045.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P046';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P046.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P047';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P047.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P048';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P048.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P049';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P049.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P050';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P050.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P051';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P051.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P052';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P052.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P053';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P053.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P054';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P054.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P055';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P055.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P056';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P056.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P057';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P057.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P058';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P058.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P059';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P059.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P060';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P060.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P061';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P061.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P062';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P062.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P063';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P063.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P064';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P064.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P065';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P065.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P066';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P066.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P067';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P067.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P068';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P068.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P069';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P069.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P070';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P070.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P071';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P071.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P072';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P072.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P073';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P073.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P074';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P074.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P075';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P075.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P076';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P076.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P077';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P077.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P078';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P078.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P079';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P079.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P080';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P080.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P081';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P081.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P082';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P082.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P083';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P083.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P084';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P084.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P085';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P085.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P086';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P086.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P087';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P087.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P088';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P088.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P089';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P089.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P090';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P090.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P091';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P091.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P092';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P092.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P093';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P093.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P094';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P094.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P095';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P095.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P096';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P096.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P097';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P097.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P098';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P098.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P099';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P099.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P100';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P100.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P101';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P101.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P102';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P102.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P103';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P103.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P104';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P104.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P105';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P105.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P106';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P106.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P107';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P107.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P108';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P108.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P109';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P109.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P110';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P110.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P111';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P111.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P112';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P112.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P113';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P113.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P114';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P114.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P115';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P115.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P116';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P116.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P117';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P117.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P118';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P118.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P119';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P119.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P120';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P120.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P121';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P121.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P122';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P122.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P123';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P123.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P124';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P124.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P125';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P125.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P126';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P126.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P127';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P127.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P128';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P128.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P129';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P129.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P130';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P130.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P131';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P131.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P132';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P132.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P133';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P133.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P134';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P134.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P135';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P135.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P136';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P136.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P137';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P137.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P138';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P138.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P139';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P139.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P140';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P140.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P141';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P141.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P142';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P142.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P143';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P143.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P144';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P144.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P145';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P145.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P146';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P146.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P147';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P147.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P148';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P148.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P149';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P149.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P150';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P150.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P151';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P151.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P152';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P152.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P153';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P153.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P154';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P154.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P155';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P155.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P156';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P156.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P157';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P157.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P158';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P158.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P159';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P159.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P160';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P160.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P161';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P161.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P162';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P162.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P163';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P163.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P164';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P164.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P165';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P165.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P166';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P166.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P167';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P167.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P168';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P168.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P169';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P169.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P170';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P170.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P171';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P171.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P172';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P172.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P173';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P173.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P174';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P174.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P175';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P175.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P176';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P176.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P177';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P177.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P178';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P178.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P179';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P179.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P180';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P180.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P181';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P181.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P182';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P182.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P183';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P183.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P184';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P184.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P185';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P185.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P186';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P186.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P187';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P187.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P188';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P188.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P189';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P189.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P190';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P190.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P191';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P191.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P192';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P192.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P193';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P193.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P194';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P194.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P195';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P195.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P196';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P196.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P197';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P197.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P198';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P198.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P199';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P199.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P200';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P200.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P201';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P201.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P202';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P202.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P203';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P203.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P204';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P204.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P205';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P205.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P206';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P206.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P207';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P207.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P208';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P208.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P209';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P209.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P210';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P210.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P211';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P211.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P212';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P212.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P213';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P213.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P214';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P214.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P215';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P215.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P216';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P216.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P217';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P217.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P218';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P218.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P219';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P219.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P220';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P220.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P221';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P221.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P222';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P222.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P223';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P223.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P224';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P224.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P225';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P225.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P226';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P226.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P227';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P227.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P228';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P228.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P229';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P229.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P230';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P230.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P231';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P231.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P232';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P232.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P233';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P233.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P234';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P234.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P235';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P235.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P236';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P236.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P237';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P237.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P238';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P238.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P239';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P239.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P240';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P240.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P241';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P241.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P242';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P242.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P243';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P243.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P244';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P244.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P245';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P245.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P246';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P246.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P247';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P247.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P248';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P248.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P249';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P249.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P250';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P250.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P251';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P251.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P252';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P252.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P253';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P253.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P254';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P254.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P255';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P255.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P256';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P256.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P257';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P257.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P258';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P258.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P259';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P259.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P260';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P260.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P261';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P261.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P262';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P262.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P263';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P263.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P264';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P264.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P265';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P265.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P266';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P266.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P267';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P267.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P268';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P268.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P269';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P269.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P270';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P270.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P271';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P271.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P272';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P272.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P273';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P273.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P274';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P274.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P275';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P275.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P276';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P276.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P277';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P277.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P278';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P278.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P279';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P279.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P280';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P280.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P281';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P281.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P282';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P282.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P283';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P283.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P284';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P284.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P285';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P285.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P286';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P286.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P287';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P287.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P288';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P288.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P289';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P289.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P290';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P290.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P291';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P291.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P292';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P292.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P293';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P293.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P294';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P294.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P295';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P295.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P296';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P296.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P297';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P297.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P298';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P298.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P299';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P299.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P300';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P300.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P301';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P301.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P302';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P302.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P303';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P303.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P304';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P304.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P305';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P305.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P306';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P306.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P307';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P307.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P308';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P308.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P309';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P309.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P310';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P310.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P311';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P311.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P312';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P312.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P313';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P313.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P314';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P314.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P315';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P315.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P316';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P316.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P317';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P317.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P318';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P318.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P319';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P319.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P320';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P320.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P321';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P321.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P322';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P322.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P323';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P323.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P324';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P324.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P325';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P325.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P326';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P326.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P327';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P327.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P328';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P328.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P329';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P329.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P330';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P330.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P331';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P331.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P332';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P332.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P333';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P333.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P334';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P334.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P335';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P335.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P336';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P336.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P337';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P337.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P338';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P338.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P339';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P339.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P340';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P340.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P341';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P341.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P342';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P342.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P343';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P343.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P344';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P344.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P345';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P345.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P346';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P346.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P347';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P347.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P348';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P348.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P349';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P349.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P350';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P350.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P351';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P351.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P352';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P352.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P353';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P353.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P354';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P354.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P355';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P355.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P356';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P356.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P357';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P357.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P358';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P358.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P359';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P359.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P360';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P360.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P361';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P361.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P362';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P362.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P363';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P363.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P364';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P364.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P365';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P365.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P366';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P366.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P367';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P367.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P368';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P368.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P369';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P369.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P370';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P370.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P371';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P371.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P372';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P372.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P373';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P373.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P374';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P374.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P375';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P375.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P376';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P376.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P377';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P377.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P378';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P378.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P379';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P379.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P380';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P380.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P381';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P381.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P382';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P382.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P383';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P383.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P384';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P384.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P385';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P385.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P386';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P386.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P387';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P387.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P388';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P388.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P389';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P389.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P390';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P390.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P391';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P391.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P392';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P392.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P393';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P393.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P394';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P394.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P395';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P395.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P396';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P396.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P397';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P397.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P398';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P398.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P399';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P399.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P400';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P400.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P401';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P401.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P402';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P402.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P403';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P403.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P404';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P404.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P405';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P405.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P406';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P406.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P407';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P407.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P408';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P408.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P409';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P409.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P410';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P410.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P411';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P411.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P412';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P412.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P413';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P413.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P414';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P414.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P415';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P415.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P416';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P416.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P417';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P417.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P418';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P418.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P419';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P419.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P420';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P420.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P421';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P421.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P422';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P422.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P423';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P423.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P424';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P424.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P425';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P425.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P426';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P426.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P427';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P427.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P428';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P428.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P429';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P429.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P430';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P430.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P431';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P431.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P432';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P432.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P433';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P433.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P434';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P434.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P435';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P435.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P436';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P436.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P437';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P437.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P438';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P438.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P439';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P439.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P440';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P440.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P441';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P441.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P442';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P442.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P443';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P443.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P444';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P444.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P445';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P445.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P446';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P446.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P447';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P447.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P448';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P448.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P449';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P449.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P450';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P450.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P451';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P451.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P452';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P452.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P453';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P453.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P454';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P454.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P455';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P455.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P456';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P456.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P457';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P457.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P458';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P458.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P459';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P459.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P460';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P460.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P461';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P461.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P462';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P462.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P463';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P463.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P464';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P464.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P465';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P465.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P466';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P466.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P467';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P467.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P468';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P468.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P469';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P469.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P470';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P470.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P471';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P471.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P472';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P472.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P473';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P473.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P474';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P474.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P475';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P475.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P476';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P476.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P477';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P477.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P478';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P478.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P479';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P479.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P480';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P480.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P481';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P481.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P482';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P482.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P483';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P483.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P484';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P484.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P485';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P485.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P486';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P486.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P487';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P487.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P488';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P488.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P489';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P489.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P490';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P490.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P491';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P491.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P492';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P492.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P493';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P493.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P494';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P494.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P495';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P495.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P496';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P496.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P497';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P497.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P498';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P498.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P499';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P499.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P500';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P500.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P501';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P501.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P502';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P502.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P503';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P503.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P504';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P504.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P505';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P505.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P506';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P506.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P507';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P507.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P508';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P508.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P509';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P509.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P510';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P510.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P511';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P511.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P512';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P512.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P513';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P513.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P514';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P514.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P515';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P515.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P516';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P516.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P517';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P517.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P518';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P518.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P519';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P519.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P520';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P520.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P521';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P521.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P522';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P522.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P523';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P523.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P524';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P524.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P525';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P525.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P526';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P526.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P527';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P527.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P528';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P528.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P529';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P529.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P530';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P530.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P531';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P531.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P532';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P532.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P533';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P533.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P534';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P534.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P535';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P535.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P536';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P536.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P537';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P537.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P538';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P538.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P539';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P539.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P540';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P540.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P541';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P541.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P542';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P542.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P543';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P543.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P544';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P544.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P545';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P545.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P546';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P546.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P547';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P547.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P548';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P548.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P549';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P549.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P550';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P550.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P551';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P551.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P552';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P552.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P553';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P553.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P554';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P554.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P555';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P555.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P556';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P556.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P557';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P557.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P558';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P558.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P559';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P559.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P560';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P560.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P561';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P561.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P562';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P562.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P563';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P563.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P564';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P564.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P565';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P565.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P566';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P566.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P567';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P567.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P568';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P568.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P569';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P569.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P570';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P570.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P571';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P571.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P572';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P572.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P573';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P573.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P574';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P574.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P575';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P575.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P576';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P576.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P577';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P577.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P578';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P578.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P579';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P579.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P580';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P580.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P581';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P581.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P582';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P582.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P583';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P583.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P584';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P584.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P585';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P585.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P586';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P586.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P587';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P587.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P588';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P588.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P589';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P589.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P590';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P590.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P591';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P591.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P592';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P592.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P593';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P593.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P594';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P594.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P595';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P595.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P596';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P596.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P597';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P597.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P598';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P598.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P599';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P599.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P600';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P600.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P601';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P601.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P602';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P602.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P603';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P603.TTF');
+            }
+
+@font-face {
+                font-family: 'QCF_P604';
+                font-weight: normal;
+                src: url('/fonts/quran/QCF_P604.TTF');
+            }

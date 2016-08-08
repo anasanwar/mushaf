@@ -1,0 +1,12 @@
+
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+
+.word {
+	font-size: 20px;
+	line-height: 150%;
+	font-family: 'Droid Arabic Naskh', serif;
+
+}
+#resizeDiv {
+	border: solid 1px black;
+}
